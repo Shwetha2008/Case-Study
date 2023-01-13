@@ -1,0 +1,91 @@
+body
+{
+    background: radial-gradient( rgb(194, 240, 240),rgb(138, 250, 250), rgb(63, 243, 243));
+}
+.google
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px; 
+    background-color: white;
+}
+.heading
+{
+    color: azure;
+    padding-top: 20px;
+    background-color: rgba(2, 92, 92, 0.851);
+    height: 80px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:8px 10px 10px white;
+    text-shadow: 2px 2px yellow;
+}
+.heading b
+{
+    color: rgb(240, 84, 178);
+    text-shadow: 2px 2px yellow;
+}
+.compare
+{
+    background-color: royalblue;
+    width: 20%;
+    color: aliceblue;
+    border-radius: 40px ;
+    text-shadow: 5px 3px rgb(1, 24, 44);
+}
+
+.test_image_and_result
+{
+    background-color: rgba(220, 20, 60, 0.884);
+    width: 75%;
+    height: 50%;
+    border-radius: 15px;
+    margin-left: 185px;
+    margin-top: 50px;
+} 
+.test_image_and_result img
+{
+    margin-top: 10%;
+}
+.test_image_and_result h4
+{
+    width: 30%;
+    height: 50px;
+}
+.test
+{
+    background-color: aliceblue;
+    width: 20%;
+    height: 30px;
+}
+.mini_result h4
+{
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+    padding-left: 10%;
+}
+.copy_right_footer
+  {
+    font-size: 23px;
+    bottom: 0;
+    background-color: rgba(4, 146, 146, 0.873);
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    position: fixed;
+    text-shadow: 2px 1px rgb(4, 95, 95);
+  }
+.conclusion
+{
+    
+    margin-top: 20%;
+    padding-bottom: 20% ;
+    font-style: italic;
+    font-size: 23px;
+    text-shadow: 1px 1px rgb(5, 110, 167);
+}
+.conclusion b
+{
+    color: red;
+}
+ 
